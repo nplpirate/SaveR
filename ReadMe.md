@@ -12,4 +12,4 @@ upload_grocery_bill.py: This script implements the UploadGroceryBillGUI class, w
 
 users.json: This JSON file stores user account information. It contains a dictionary where the keys are usernames and the values are user details, including the password.
 
-supermarkets.json: This JSON file stores information about supermarkets. It contains a list of supermarkets, each represented by a dictionary with details such as the supermarket name, location, and contact information.
+supermarkets.json: This JSON file stores information about supermarkets. It contains a list of supermarkets, each represented by a dictionary with details of grocery products and their price.
